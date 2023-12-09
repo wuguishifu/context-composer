@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Composer should render a div 1`] = `
+<div
+  id="child"
+/>
+`;
+
+exports[`Composer should render with providers 1`] = `
+<div
+  id="p0"
+>
+  <div
+    id="p1"
+  >
+    <div
+      id="child"
+    />
+  </div>
+</div>
+`;

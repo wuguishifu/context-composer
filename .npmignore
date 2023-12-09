@@ -1,0 +1,8 @@
+__test__
+node_modules
+lib
+jest.config.js
+babel.config.js
+tsconfig.json
+.gitignore
+.npmignore

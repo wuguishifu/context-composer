@@ -6,3 +6,4 @@ babel.config.js
 tsconfig.json
 .gitignore
 .npmignore
+example
